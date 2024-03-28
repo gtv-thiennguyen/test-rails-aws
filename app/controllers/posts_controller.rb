@@ -1,5 +1,5 @@
 class PostsController < ApplicationController
   def index
-    render json: {data: "post changed"}
+    render json: {data: "move platform specify to Dockerfile"}
   end
 end
