@@ -1,5 +1,5 @@
 class PostsController < ApplicationController
   def index
-    render json: {data: "aaa changed"}
+    render json: {data: "changed by github"}
   end
 end
